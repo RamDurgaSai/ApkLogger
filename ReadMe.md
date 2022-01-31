@@ -31,10 +31,6 @@ Apk Logger
      If want to use own JDK or not in Env
      Set Path of JDK, Apk Tool and Uber Apk Signer
      Don't want sign apks ... Just leave Apk signer Path as null
-### Signing
-
-    Apk cloner Supports Apk Signer(By Uber Apk Signer)
-    Set Keystore Path and other information in config.json
 
 ### *Supported Patches*
 #### *log_method*
